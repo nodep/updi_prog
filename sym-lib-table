@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "device")(type "KiCad")(uri "${KICAD6_SYMBOL_DIR}/device.kicad_sym")(options "")(descr ""))
+  (lib (name "connector")(type "KiCad")(uri "${KICAD6_SYMBOL_DIR}/connector.kicad_sym")(options "")(descr ""))
+  (lib (name "Interface_USB")(type "KiCad")(uri "${KICAD6_SYMBOL_DIR}/Interface_USB.kicad_sym")(options "")(descr ""))
+  (lib (name "Jumper")(type "KiCad")(uri "${KICAD6_SYMBOL_DIR}/Jumper.kicad_sym")(options "")(descr ""))
+  (lib (name "Regulator_Linear")(type "KiCad")(uri "${KICAD6_SYMBOL_DIR}/Regulator_Linear.kicad_sym")(options "")(descr ""))
+)
